@@ -1,0 +1,26 @@
+/**************************************************************************/
+/*                       MY OWN BOOTSTRAP                                 */
+/*                                                                        */
+/**************************************************************************/
+
+/* Adding a new color */
+.bg-purple {background-color: purple;}
+.text-purple {color: purple;}
+.border-purple {border-color: purple;}
+
+/* Adding new paddings */
+.p-6 {padding:6em}
+.pt-6 {padding-top: 6em;}
+
+/* Adding a new height */
+.h-85 {height: 85vh}
+
+/**************************************************************************/
+
+@font-face {
+    font-family: ;
+    src: url();
+}
+
+body {background-image: url(https://img.freepik.com/premium-vector/gingham-red-square-geometric-seamless-vector-pattern-paper-plaid-tablecloth-other-textile_125869-2492.jpg);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
